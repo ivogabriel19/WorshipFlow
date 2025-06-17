@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Recomendador de Canciones Cristianas</title>
+</head>
+<body>
+  <h1>Recomendador de Canciones Cristianas</h1>
+
+  {% if not cancion %}
+    <form method="POST">
+      <label>Elegí una canción para empezar:</label>
+      <select name="cancion">
+        {% for c in canciones %}
+          <option value="{{ c.id }}">{{ c.titulo }}</option>
+        {% endfor %}
+      </select>
+      <button name="accion" value="iniciar">Iniciar</button>
+    </form>
+
+    <form method="POST">
+      <label>O elegí un tag inicial:</label>
+      <input name="tag" placeholder="ej: adoración" />
+      <button name="accion" value="tag">Buscar</button>
+    </form>
+
+  {% else %}
+    <h2>{{ cancion.titulo }}</h2>
+    <p><strong>Tags:</strong> {{ cancion.tags | join(', ') }}</p>
+
+    <form method="POST">
+      <input type="hidden" name="actual_id" value="{{ cancion.id }}">
+      <input type="hidden" name="actual_tags" value="{{ cancion.tags | join(',') }}">
+      <button name="accion" value="skip">Siguiente sugerencia</button>
+    </form>
+  {% endif %}
+</body>
+</html>

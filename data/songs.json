@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c1",
+    "titulo": "Jesus",
+    "autor": ["Marcos Brunet","Toma tu lugar"],
+    "tags": ["adoración", "imagen"]
+  },
+  {
+    "id": "c2",
+    "titulo": "Enciende un fuego",
+    "autor": ["Catedral de la FE"],
+    "tags": ["avivamiento", "presencia"]
+  },
+  {
+    "id": "c3",
+    "titulo": "Haz fluir",
+    "autor": ["Toma tu lugar", "Lucas Conslie"],
+    "tags": []
+  },
+  {
+    "id": "c4",
+    "titulo": "Quiero quemar",
+    "autor": ["marcos Brunet", "Toma tu lugar", "UPPERROOM"],
+    "tags": []
+  },
+  {
+    "id": "c4",
+    "titulo": "No yo, sino Cristo",
+    "autor": ["Majo y Dan"],
+    "tags": ["Entrega"]
+  },
+  {
+    "id": "c5",
+    "titulo": "Tu gran nombre",
+    "autor": ["Evan Craft"],
+    "tags": ["Glorificacion"]
+  },
+  {
+    "id": "c6",
+    "titulo": "Con todo",
+    "autor": ["Hillsong United"],
+    "tags": ["Entrega", "Busqueda"]
+  }
+]
