@@ -3,42 +3,63 @@
     "id": "c1",
     "titulo": "Jesus",
     "autor": ["Marcos Brunet","Toma tu lugar"],
-    "tags": ["adoración", "imagen"]
+    "Temas_Espirituales": ["adoración", "imagen"],
+    "Estado_Emocional": ["anhelo"],
+    "Contexto": ["Congregacional"],
+    "Genero_cancion": ["Espontaneo"]
   },
   {
     "id": "c2",
     "titulo": "Enciende un fuego",
     "autor": ["Catedral de la FE"],
-    "tags": ["avivamiento", "presencia"]
+    "Temas_Espirituales": ["Espiritual", "avivamiento", "presencia"],
+    "Estado_Emocional": ["pasion"],
+    "Contexto": ["Congregacional"],
+    "Genero_cancion": []
   },
   {
     "id": "c3",
     "titulo": "Haz fluir",
     "autor": ["Toma tu lugar", "Lucas Conslie"],
-    "tags": []
+    "Temas_Espirituales": ["", ""],
+    "Estado_Emocional": ["", ""],
+    "Contexto": ["", ""],
+    "Genero_cancion": [""]
   },
   {
     "id": "c4",
     "titulo": "Quiero quemar",
     "autor": ["marcos Brunet", "Toma tu lugar", "UPPERROOM"],
-    "tags": []
+    "Temas_Espirituales": ["", ""],
+    "Estado_Emocional": ["", ""],
+    "Contexto": ["", ""],
+    "Genero_cancion": [""]
   },
   {
     "id": "c4",
     "titulo": "No yo, sino Cristo",
     "autor": ["Majo y Dan"],
-    "tags": ["Entrega"]
+    "Temas_Espirituales": ["", ""],
+    "Estado_Emocional": ["", ""],
+    "Contexto": ["", ""],
+    "Genero_cancion": [""]
   },
   {
     "id": "c5",
     "titulo": "Tu gran nombre",
     "autor": ["Evan Craft"],
-    "tags": ["Glorificacion"]
+    "Temas_Espirituales": ["", ""],
+    "Estado_Emocional": ["", ""],
+    "Contexto": ["", ""],
+    "Genero_cancion": [""]
   },
   {
     "id": "c6",
     "titulo": "Con todo",
     "autor": ["Hillsong United"],
-    "tags": ["Entrega", "Busqueda"]
+    "Temas_Espirituales": ["Adoracion", "glorificacion"],
+    "Estado_Emocional": ["", ""],
+    "Contexto": ["Personal", ""],
+    "Genero_cancion": [""]
   }
 ]

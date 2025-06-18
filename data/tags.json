@@ -1,11 +1,17 @@
 {
-  "Adoracion":["adoración","alabanza","exaltación","glorificación","imagen","ofrenda"],
-  "Espiritual":["presencia","avivamiento","pasion"],
-  "Caracteristicas":["amor","poder","majestad","soberania","misericordia","justo"],
-  "Devocion":["busqueda", "entrega","rendición","proposito"],
-  "Testimonio":["poder","milagros","victoria","gratitud"],
-  "Redencion":["cruz","perdon","sangre","salvacion","gracia","renovacion","esperanza"],
-  "Relacion":["intimidad","rey","padre"],
-  "Iglesia":["unidad","cuerpo","comunion","generacion","reino"],
-  "Esperanza Escatológica": ["venida", "cielo", "gloria venidera", "segunda venida"]
+  "Temas_espirituales":{
+    "Adoracion":["adoración","alabanza","exaltación","glorificación","imagen","ofrenda"],
+    "Espiritual":["presencia","avivamiento","pasion"],
+    "Caracteristicas de Dios":["amor","poder","majestad","soberania","misericordia","justo"],
+    "Devocion":["busqueda", "entrega","rendición","proposito"],
+    "Testimonio":["poder","milagros","victoria","gratitud"],
+    "Redencion":["cruz","perdon","sangre","salvacion","gracia","renovacion","esperanza"],
+    "Relacion":["intimidad","rey","padre"],
+    "Iglesia":["unidad","cuerpo","comunion","generacion","reino"],
+    "Esperanza Escatológica": ["venida", "cielo", "gloria venidera", "segunda venida"]
+  },
+  "Estado_Emocional":[  "Humildad","Quebrantamiento","Gozo","Fe","Esperanza","Paz",
+                        "Descanso","Confianza","Anhelo"],
+  "Contexto":["Personal","Familiar","Congregacional"],
+  "Genero_cancion":["Instrumental","Espontaneo"]
 }
