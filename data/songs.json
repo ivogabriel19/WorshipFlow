@@ -6,7 +6,12 @@
     "Temas_Espirituales": ["adoración", "imagen"],
     "Estado_Emocional": ["anhelo"],
     "Contexto": ["Congregacional"],
-    "Genero_cancion": ["Espontaneo"]
+    "musical": {
+      "generos": ["", "espontaneo"],
+      "tonalidad": "X",
+      "compas": "4/4",
+      "bpm": 0
+    }
   },
   {
     "id": "c2",
@@ -15,7 +20,12 @@
     "Temas_Espirituales": ["Espiritual", "avivamiento", "presencia"],
     "Estado_Emocional": ["pasion"],
     "Contexto": ["Congregacional"],
-    "Genero_cancion": []
+    "musical": {
+      "generos": ["", ""],
+      "tonalidad": "X",
+      "compas": "4/4",
+      "bpm": 0
+    }
   },
   {
     "id": "c3",
@@ -24,7 +34,12 @@
     "Temas_Espirituales": ["", ""],
     "Estado_Emocional": ["", ""],
     "Contexto": ["", ""],
-    "Genero_cancion": [""]
+    "musical": {
+      "generos": ["", ""],
+      "tonalidad": "X",
+      "compas": "4/4",
+      "bpm": 0
+    }
   },
   {
     "id": "c4",
@@ -33,7 +48,12 @@
     "Temas_Espirituales": ["", ""],
     "Estado_Emocional": ["", ""],
     "Contexto": ["", ""],
-    "Genero_cancion": [""]
+    "musical": {
+      "generos": ["", ""],
+      "tonalidad": "X",
+      "compas": "4/4",
+      "bpm": 0
+    }
   },
   {
     "id": "c4",
@@ -42,7 +62,12 @@
     "Temas_Espirituales": ["", ""],
     "Estado_Emocional": ["", ""],
     "Contexto": ["", ""],
-    "Genero_cancion": [""]
+    "musical": {
+      "generos": ["", ""],
+      "tonalidad": "X",
+      "compas": "4/4",
+      "bpm": 0
+    }
   },
   {
     "id": "c5",
@@ -51,7 +76,12 @@
     "Temas_Espirituales": ["", ""],
     "Estado_Emocional": ["", ""],
     "Contexto": ["", ""],
-    "Genero_cancion": [""]
+    "musical": {
+      "generos": ["", ""],
+      "tonalidad": "X",
+      "compas": "4/4",
+      "bpm": 0
+    }
   },
   {
     "id": "c6",
@@ -60,6 +90,11 @@
     "Temas_Espirituales": ["Adoracion", "glorificacion"],
     "Estado_Emocional": ["", ""],
     "Contexto": ["Personal", ""],
-    "Genero_cancion": [""]
+    "musical": {
+      "generos": ["", ""],
+      "tonalidad": "X",
+      "compas": "4/4",
+      "bpm": 0
+    }
   }
 ]

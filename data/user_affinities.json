@@ -1,0 +1,10 @@
+{
+  "affinities_scores": {
+    "Redencion→Relacion": 0.75,
+    "Devocion→Adoracion": 0.6
+  },
+  "songs_scores":{
+    "c1": 0.8,
+    "c5": -0.3
+  }
+}
